@@ -1,0 +1,6 @@
+[submodule "nem.core"]
+	path = nem.core
+	url = https://github.com/NewEconomyMovement/nem.core.git
+[submodule "nem.deploy"]
+	path = nem.deploy
+	url = https://github.com/NewEconomyMovement/nem.deploy.git
